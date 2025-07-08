@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Elysian Heights",
+    "price": "59,999",
+    "detail": "Where luxury meets elevation — experience serene living above the city buzz",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Aurora Enclave",
+    "price": "69,999",
+    "detail": "A radiant lifestyle destination inspired by natural light and open skies",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Celestia Heights",
+    "price": "35,999",
+    "detail": "Elegant high-rise living with panoramic views and starlit skies",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Bluebell Courtyard",
+    "price": "49,999",
+    "detail": "A floral-inspired retreat with open courtyards and fresh-air living",
+    "image": "./r4.png"
+  },
+  {
+    "name": "Skyline Meadows",
+    "price": "38,500",
+    "detail": "Live in the clouds — where cityscapes meet wide green fields",
+    "image": "./r5.png"
+  },
+  {
+    "name": "Crystal Ridge",
+    "price": "35,999",
+    "detail": "Shining bright on elevated land, offering clarity, class, and comfort",
+    "image": "./r3.png"
+  }
+]
